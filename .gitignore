@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/01. SimpleOperations/.vs/01. SimpleOperations/v16/Browse.VC.opendb
+/01. SimpleOperations/.vs/01. SimpleOperations/v16/Browse.VC.db
