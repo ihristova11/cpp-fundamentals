@@ -41,4 +41,6 @@ int main()
 	{
 		std::cout << arr[n-1];
 	}
+	
+	return 0;
 }

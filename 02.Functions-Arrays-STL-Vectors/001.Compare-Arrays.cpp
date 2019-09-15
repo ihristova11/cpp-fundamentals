@@ -46,4 +46,6 @@ int main()
 	output = areEqual(firstArr, firstArrLen, secondArr, secondArrLen) ? "equal" : "not equal";
 
 	std::cout << output << std::endl;
+	
+	return 0;
 }
