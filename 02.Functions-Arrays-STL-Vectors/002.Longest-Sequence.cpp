@@ -15,7 +15,7 @@ int main()
 	{
 		std::cin >> arr[i];
 
-		if (arr[i - 1] == arr[i])
+		if (i != 0 && arr[i - 1] == arr[i])
 		{
 			endIndex = i;
 			++tempLen;
