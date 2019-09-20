@@ -1,3 +1,6 @@
 # cpp-fundamentials
 
-Course materials
+ Course materials
+
+- 00. Basics
+- 01. Arrays-STL-Vectors
