@@ -7,7 +7,7 @@ int main()
 	int checkup[MaxLen];
 	int installation[MaxLen];
 	int diff = 0;
-	int n;
+	int n = 0;
 
 	std::cin >> n;
 
