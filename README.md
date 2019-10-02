@@ -2,6 +2,7 @@
 
  Course materials
 
-- 00. Basics
-- 01. Arrays-STL-Vectors
-- 02. Functions-Arrays-STL-Vectors
+00. Basics
+01. Arrays-STL-Vectors
+02. Functions-Arrays-STL-Vectors
+03. Exercise
