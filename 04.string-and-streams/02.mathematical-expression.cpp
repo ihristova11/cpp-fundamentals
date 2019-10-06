@@ -35,4 +35,6 @@ int main()
 	std::string result = isCorrect(input) ? "correct" : "incorrect";
 
 	std::cout << result << std::endl;
+	
+	return 0;
 }
