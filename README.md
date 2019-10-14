@@ -8,3 +8,4 @@
 03. Exercise
 04. Strings and Streams
 05. STL Linear Containers
+06. Exercise
