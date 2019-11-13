@@ -9,3 +9,5 @@
 04. Strings and Streams
 05. STL Linear Containers
 06. Exercise
+07. STL Associative Containers
+08. Classes and Objects
